@@ -63,7 +63,7 @@ python -u main2.py --batch_size 1 --test --test_epoch 20 --model_path=output18 -
 
 ## Acknowledgement
 
-Part of our code comes from the following work, and we are very grateful for their contributions to relevant research:
+Part of our code comes from the following work, and we are very grateful for their contributions to relevant research:  
 [transformers](https://github.com/huggingface/transformers),
 [AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention).
 
