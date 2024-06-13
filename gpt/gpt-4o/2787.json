@@ -1,0 +1,1 @@
+{"error": {"message": "Your input image may contain content that is not allowed by our safety system.", "type": "invalid_request_error", "param": null, "code": "content_policy_violation"}}

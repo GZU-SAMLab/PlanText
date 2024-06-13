@@ -1,0 +1,23 @@
+{
+  "id": "chatcmpl-SOXORKkJCZnOHv32G4XCQ8LOz7tKq",
+  "object": "chat.completion",
+  "created": 1715680611,
+  "model": "gpt-4o-2024-05-13",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "```json\n{\n  \"feature_A\": {\n    \"color\": \"3\",\n    \"texture\": \"1\",\n    \"morphology\": \"1\",\n    \"situated\": \"2\",\n    \"area\": \"2\",\n    \"address\": \"1\"\n  },\n  \"feature_B\": {\n    \"color\": \"6\",\n    \"texture\": \"4\",\n    \"morphology\": \"3\",\n    \"situated\": \"2\",\n    \"area\": \"1\",\n    \"address\": \"2\"\n  },\n  \"feature_C\": {\n    \"color\": \"6\",\n    \"texture\": \"3\",\n    \"morphology\": \"3\",\n    \"situated\": \"2\",\n    \"area\": \"2\",\n    \"address\": \"1\"\n  }\n}\n```"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1062,
+    "completion_tokens": 165,
+    "total_tokens": 1227
+  },
+  "system_fingerprint": "fp_927397958d"
+}

@@ -1,0 +1,39 @@
+{
+  "color": {
+    "1": "black",
+    "2": "green",
+    "3": "yellow",
+    "4": "brown",
+    "5": "gray",
+    "6": "red brown",
+    "7": "white"
+  },
+  "texture": {
+    "1": "spotted",
+    "2": "striped",
+    "3": "ring spot",
+    "4": "netted spot",
+    "5": "random spot"
+  },
+  "morphology": {
+    "1": "atrophy",
+    "2": "wilt",
+    "3": "rot",
+    "4": "burn",
+    "5": "perforation",
+    "6": "normal"
+  },
+  "situated": {
+    "1": "edge part of blade",
+    "2": "middle part of blade"
+  },
+  "area": {
+    "1": "large area",
+    "2": "middle area",
+    "3": "small area"
+  },
+  "address": {
+    "1": "field",
+    "2": "lab"
+  }
+}

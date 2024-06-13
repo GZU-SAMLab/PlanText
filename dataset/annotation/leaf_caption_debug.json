@@ -1,0 +1,52 @@
+[
+  {
+    "image": "apple_black_rot_1.jpg",
+    "image_id": 20928,
+    "color": 2,
+    "texture": 5,
+    "morphology": 2,
+    "situated": 2,
+    "area": 1,
+    "address": 2
+  },
+  {
+    "image": "apple_cedar_apple_rust_4.jpg",
+    "image_id": 20928,
+    "color": 1,
+    "texture": 1,
+    "morphology": 6,
+    "situated": 1,
+    "area": 3,
+    "address": 1
+  },
+  {
+    "image": "apple_cedar_apple_rust_735.jpg",
+    "image_id": 20928,
+    "color": 7,
+    "texture": 1,
+    "morphology": 2,
+    "situated": 2,
+    "area": 1,
+    "address": 2
+  },
+  {
+    "image": "apple_healthy_1.jpg",
+    "image_id": 20928,
+    "color": 7,
+    "texture": 1,
+    "morphology": 6,
+    "situated": 2,
+    "area": 3,
+    "address": 1
+  },
+  {
+    "image": "apple_healthy_32.jpg",
+    "image_id": 20928,
+    "color": 7,
+    "texture": 5,
+    "morphology": 1,
+    "situated": 2,
+    "area": 3,
+    "address": 2
+  }
+]

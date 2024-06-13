@@ -1,0 +1,5 @@
+model/pre_gpt/*
+model/pre_vit/*
+output/*
+result/PlanText/*
+.idea

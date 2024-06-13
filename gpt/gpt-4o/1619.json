@@ -1,0 +1,1 @@
+{"error": {"message": "Rate limit reached for gpt-4o in organization org-************** on tokens per min (TPM): Limit 30000, Used 29484, Requested 1327. Please try again in 1.622s. Visit https://************** to learn more.", "type": "tokens", "param": null, "code": "rate_limit_exceeded"}}
